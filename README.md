@@ -10,3 +10,8 @@
 * To set up the application, you have to make sure there is a file called **derbyclient.jar** in the folder **./dist/lib**. If you miss the file while extracting the zip file, you have to download it seperately.
 * Then you have to visit SQL file folder, open the **readme.txt** and follow the instruction there to get the game ready.
 * Don't forget to **_run the server file_** before running the game.
+
+### What features is used?
+* I used the Javax JPanel, JComponent to help me build the game. 
+* The game also have the sound effect.
+* The game is a OOP program.
